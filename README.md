@@ -2,7 +2,7 @@ Adds a zoomToGeometries method to L.map
 
 ### Demo
 
-http://nucivic.github.io/leaflet.map.zoomToGeometries.js/
+http://getdkan.github.io/leaflet.map.zoomToGeometries.js/
 
 ### Usage
 
