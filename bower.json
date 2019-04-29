@@ -1,6 +1,6 @@
 {
   "name": "leaflet-map-zoomToGeometries",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [ ],
   "license": "MIT",
   "ignore": [
@@ -9,11 +9,5 @@
     "vendor",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "jquery": "2.1.3",
-    "json": "*",
-    "leaflet": "0.7.3",
-    "bootstrap-css": "2.3.2"
-  }
+  ]
 }
